@@ -2,3 +2,6 @@
 
 # List of companies
 - sony
+- DMGMORI
+- Google　
+- Automitive companies
