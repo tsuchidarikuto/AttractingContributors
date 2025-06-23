@@ -2,3 +2,4 @@
 
 ## List of shrines
 
+- Kashihara Jingu
