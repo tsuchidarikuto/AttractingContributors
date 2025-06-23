@@ -4,4 +4,4 @@
 - Saizeriya
 # List of place
 - Ano Ramen Seisakujo
--
+- Gifu-Tanmen
