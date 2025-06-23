@@ -11,4 +11,6 @@
 - orange
 - blue
 - sky blue
+- pink
 - purple
+
