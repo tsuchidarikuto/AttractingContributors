@@ -5,6 +5,7 @@
 # List of place
 - Ano Ramen Seisakujo
 - Sushiro
+- Sawayaka (hamburger restaurant in Shizuoka)
 -
 -
 -
