@@ -5,3 +5,8 @@
 # List of place
 - Ano Ramen Seisakujo
 - Gusto
+- Sushiro
+- Sawayaka (hamburger restaurant in Shizuoka)
+-
+-
+-
