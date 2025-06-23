@@ -13,4 +13,4 @@
 - sky blue
 - pink
 - purple
-
+- cyan
