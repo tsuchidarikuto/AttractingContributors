@@ -12,3 +12,5 @@
 - blue
 - sky blue
 - pink
+- purple
+
