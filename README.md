@@ -2,3 +2,5 @@
 
 # List of companies
 - DMGMORI
+- Google　
+- Automitive companies
