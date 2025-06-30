@@ -7,3 +7,5 @@
 - New York City
 - Reykjavik
 - Atlantis
+- Poland
+- Nara Park
