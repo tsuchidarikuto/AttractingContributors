@@ -6,4 +6,5 @@
 - Machu Picchu
 - New York City
 - Reykjavik
+- Poland
 - Nara Park
