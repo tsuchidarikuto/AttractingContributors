@@ -4,3 +4,11 @@
 - Spain
 - Greece
 - Morocco
+- Kyoto
+- Paris
+- Machu Picchu
+- New York City
+- Reykjavik
+- Atlantis
+- Poland
+- Nara Park
