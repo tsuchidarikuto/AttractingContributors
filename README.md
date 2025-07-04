@@ -19,4 +19,5 @@ Every Language is OK.
 - electromagnetic radiation
 - LLM
 - architecture informatique
+- Machine Learning
 - AI-Driven Framework
