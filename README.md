@@ -20,3 +20,4 @@ Every Language is OK.
 - LLM
 - architecture informatique
 - Machine Learning
+- AI-Driven Framework
