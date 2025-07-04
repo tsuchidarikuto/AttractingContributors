@@ -19,6 +19,7 @@ Every Language is OK.
 - electromagnetic radiation
 - LLM
 - architecture informatique
+- LLM
 - Repository mining
 - Machine Learning
 - AI-Driven Framework
